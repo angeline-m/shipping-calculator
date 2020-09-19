@@ -30,9 +30,9 @@
 */
 
 //select the login button, add event listener click event, log to the console
-const loginButton = document.querySelector('button')
+const loginButton = document.querySelector('button');
 loginButton.addEventListener('click', function() {
-  console.log('button clicked')
+  console.log('button clicked');
 })
 
 //reference variables
